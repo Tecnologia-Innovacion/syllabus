@@ -16,7 +16,7 @@ Prof. Tomás de Camino Beck, Ph.D.
 
 ##Contenidos
 
-##Metodología de ensenñanza
+##Metodología de enseñanza
 
 ##Estrategias de aprendizaje
 
