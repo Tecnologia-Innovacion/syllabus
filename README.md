@@ -3,5 +3,37 @@
 Prof. Tomás de Camino Beck, Ph.D.
 
 
-##Introducción
+##Descripción del curso
+
+
+##Objetivos
+
+###General
+
+
+###Específicos
+
+
+##Contenidos
+
+##Metodología de ensenñanza
+
+##Estrategias de aprendizaje
+
+##Recursos didácticos
+
+##Evaluación
+
+
+##Bibliografía
+
+##Cronograma
+
+
+
+##Observaciones Generales
+
+El estudiante debe cumplir con todas las disposiciones del Reglamento de Régimen Estudiantil de la Universidad LIDERAZGO, EXCELENCIA, AVANCE Y DESARROLLO. 
+
+
 
