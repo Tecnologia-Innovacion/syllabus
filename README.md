@@ -17,7 +17,13 @@ Prof. Tomás de Camino Beck, Ph.D.
 ##Contenidos
 
 1. Introducción
-..1. Contexto tecnológic actual
+  1. Contexto tecnológico actual
+  2. Tecnologías de cambio
+  3. Pensamiento del diseño/científico
+2. EL individuo
+  1. Creatividad
+  2. Ideación y creación
+  3. 
 
 
 ##Metodología de enseñanza
