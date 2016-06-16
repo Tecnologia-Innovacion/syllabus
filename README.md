@@ -1,2 +1,7 @@
-# syllabus
-Curso tecnología y educación de ULEAD
+# Tecnología e Innovación
+
+Prof. Tomás de Camino Beck, Ph.D.
+
+
+##Introducción
+
