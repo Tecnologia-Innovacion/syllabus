@@ -113,6 +113,9 @@ Von Hippel, Eric.Democratizing Innovation - MIT." 2006. 17 Jun. 2016 [PDF](http:
 [Vianna, Maurício et al. "Design Thinking." Business Inovation (2011).
 ](http://na-magazynie.pl/wp-content/uploads/2015/03/Design-Thinking-The-Book.pdf)
 
+M. Csikszentmihalyi (1999)  from R. Sternberg (Ed) (1999) Handbook of
+Creativity. Cambridge: Cambridge University Press,313–35.[PDF](http://www.sagepub.com/sites/default/files/upm-binaries/11443_01_Henry_Ch01.pdf)
+
 ##Videos
 
 [Tim Brown: Tales of creativity and play](https://www.youtube.com/watch?v=RjwUn-aA0VY)
