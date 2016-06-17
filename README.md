@@ -126,6 +126,7 @@ Creativity. Cambridge: Cambridge University Press,313–35.[PDF](http://www.sage
 
 [The Divided Brain](https://www.youtube.com/watch?v=dFs9WO2B8uI&index=6&list=PL39BF9545D740ECFF)
 
+[Design & Thinking: The movie](https://www.youtube.com/watch?v=Z_YwyMssN0Y)
 
 ##Cronograma
 por definir
