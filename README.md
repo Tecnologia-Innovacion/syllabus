@@ -40,6 +40,12 @@ Prof. Tomás de Camino Beck, Ph.D.
 
 ##Bibliografía
 
+Ordoñez, Rubén. Cambio, creatividad e innovación. Ediciones Granica SA, 2010.
+
+Bustamante, Juan Pastor. Creatividad e innovación: Factores clave para la gestión e internacionalización, ICEX España, 2013. 
+
+Kelley, Tom, and Jonathan Littman. "Las diez caras de la innovación." editorial Currency (2005): 273.
+
 ##Cronograma
 
 
