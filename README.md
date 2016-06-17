@@ -11,11 +11,15 @@ Los temas principales a discutir:
 
 * Innovación
 * Creatividad
+* Tecnología
 * Pensamiento del diseño y científico
 * Fabricación digital
 * Movimiento Maker
 * Crowdsourcing
 * Crowdfunding
+* Internet de las Cosas
+* Economía híbrida
+* Open Source
 
 ##Objetivos
 
@@ -44,7 +48,11 @@ Mejorar la capacidad de desarrollo de soluciones, productos o servicios innovado
 5. Involucrando al "Crowd" en el desarrollo de empresa
   1. Crowsourcing
   2. Crowdfunding
-6. Redes Sociales y el nuevo mundo interconectado
+6. Redes
+  1. Redes sociales
+  2. Riquesa en las redes
+  3. Capital social
+  4. Pensamiento en redes
 7. Innovación Abierta
   1. Open Source
   2. Creative Commons
@@ -115,6 +123,8 @@ Von Hippel, Eric.Democratizing Innovation - MIT." 2006. 17 Jun. 2016 [PDF](http:
 
 M. Csikszentmihalyi (1999)  from R. Sternberg (Ed) (1999) Handbook of
 Creativity. Cambridge: Cambridge University Press,313–35.[PDF](http://www.sagepub.com/sites/default/files/upm-binaries/11443_01_Henry_Ch01.pdf)
+
+Benkler, Yochai. The wealth of networks: How social production transforms markets and freedom. Yale University Press, 2006 [PDF](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf)
 
 ##Videos
 
