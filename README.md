@@ -17,9 +17,13 @@ Prof. Tomás de Camino Beck, Ph.D.
 ##Contenidos
 
 1. Introducción
-  1. Contexto tecnológico actual
-  2. Innovación
-2. Implicaciones Industriales de la tecnología
+  1. Innovación
+  2. Cretividad
+  3. Tecnología
+2. Realidad tecnlógica 2016
+  1. Democratización de tecnología
+  2. Universalidad de conocimiento
+3. Implicaciones Industriales de la tecnología
   1. Como evoluciona el mercado
   2. Como la tecnología modifica y evoluciona con el mercado
 3. Competitividad con tecnología
