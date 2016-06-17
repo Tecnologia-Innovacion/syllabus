@@ -44,7 +44,7 @@ Mejorar la capacidad de desarrollo de soluciones, productos o servicios innovado
   1. Crowsourcing
   2. Crowdfunding
 5. Redes Sociales y el nuevo mundo interconectado
-6. Diseños abiertos y propiedad intelectual
+6. Innovación Abierta
   1. Open Source
   2. Creative Commons
   3. Patentes
