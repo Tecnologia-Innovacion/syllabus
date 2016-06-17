@@ -20,7 +20,7 @@ Los temas principales a discutir:
 ##Objetivos
 
 ###General
-
+Mejorar la capacidad de desarrollo de soluciones, productos o servicios innovadores, a través de tecnologías contemporáneas
 
 ###Específicos
 
@@ -34,12 +34,22 @@ Los temas principales a discutir:
 2. Realidad tecnlógica 2016
   1. Democratización de tecnología
   2. Universalidad de conocimiento
-3. Movimiento Maker
-4. Involucrando al "Crowd"
+3. Movimiento Maker y la empresa
+4. Involucrando al "Crowd" en el desarrollo de empresa
   1. Crowsourcing
   2. Crowdfunding
-5. Diseños abierto
-6. Fabricación digital
+5. Redes Sociales y el nuevo mundo interconectado
+6 Diseños abiertos
+  1. Open Source
+  2. Creative Commons
+6. Fabricación digital (visita a Inventoría)
+  1. Impresión 3D
+  2. Tecnologías de controladores
+  3. Prototipado de ideas
+7. Empresa "Inteligente"
+  1. Internet de las Cosas
+  2. Máquinas inteligentes
+  3. Control automático
 
 
 ##Metodología de enseñanza
