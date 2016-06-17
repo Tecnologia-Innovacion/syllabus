@@ -81,7 +81,7 @@ Godin, Benoît. "Innovation and Creativity: A Slogan, Nothing but a Slogan." Rou
 
 The Disruption Machine - The New Yorker." 2014. 17 Jun. 2016 [link](http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine)
 
-OISPG Open Innovation 2.0 A New Paradigm - White Paper." 2015. 17 Jun. 2016[link](http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=2182)[Artículo relacionado](http://www.nature.com/news/twelve-principles-for-open-innovation-2-0-1.19911#/b1)
+OISPG Open Innovation 2.0 A New Paradigm - White Paper." 2015. 17 Jun. 2016 [link](http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=2182)  [Artículo relacionado](http://www.nature.com/news/twelve-principles-for-open-innovation-2-0-1.19911#/b1)
 
 ##Cronograma
 
