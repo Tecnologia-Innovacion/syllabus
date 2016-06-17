@@ -60,12 +60,36 @@ Mejorar la capacidad de desarrollo de soluciones, productos o servicios innovado
 
 ##Metodología de enseñanza
 
+Este curso tiene como base la participación activa de los estudiantes, donde expongan las experiencias laborales, opiniones o comentarios de la materia. Mediante foros de discusión, conversatorios y discusiones en clase, mediados por el docente o expertos invitados. Por otra parte, el docente realizará una charla corta, donde incorpore experiencias vividas y casos reales que ejemplifiquen la teoría brindada. 
+
+La solución de ejercicios prácticos por parte de los estudiantes permitirá que apliquen los conocimientos adquiridos, en estos ejercicios el docente solamente tendrá un papel de mediador. Para algunas de las prácticas, será necesario contar con softwares específicos. En caso de que se pueda descargar de internet versiones de prueba, los estudiantes se harán responsables de hacerlo. Si se requiere la compra del programa, la Universidad será responsable de brindar los recursos a los estudiantes.   
+
+Se desarrollará un proyecto en grupos para diseñar una estrategia de innovación tecnológica en una empresa (roadmap to innovation), utilizando los conceptos discutidos en la clase. Este proyecto se desarrolla durante todo el cuatrimestre y el docente apoyará con mentoría y guías ara el desarrollo del proyecto.
+
+Se asignarán lecturas obligatorias que servirán de base para el inicio de cada clase.
+
 ##Estrategias de aprendizaje
+
+Los estudiantes accederán a la bibliografía recomendada en el programa de curso, a través de internet o de la biblioteca de la Universidad. Con estas lecturas se realizarán analogías, que permitirán enriquecer el trabajo de investigación. 
+Debido a que el proyecto final consiste en la creación de una estrategia, es importante que los estudiantes realicen grupos de estudio, donde discutan la materia vista en clase y paulatinamente desarrollen el proyecto. Esto apoyará el proceso de aprendizaje, ya que aplicarán de forma práctica los conocimientos trasmitidos por el docente.  
+Por otra parte, los estudiantes practicarán de forma independiente los ejercicios realizados en clase, o si desean pueden solicitar más material al docente o bien buscar prácticas adicionales en internet.  
 
 ##Recursos didácticos
 
+Se cuenta con aulas equipadas con diversos medios tecnológicos para fomentar el aprendizaje según las estrategias de enseñanza que se puedan utilizar. Los salones de clase están equipados con pantallas plegables, proyector, computadora para el docente, pizarras acrílicas y electrónicas. Por otra parte, se cuenta con acceso a internet, correo electrónico y una plataforma tecnológicas para la presentación de videoconferencias. 
+
+Para los proyectos cada dos semanas se asignarán lecturas y materiales adicionales que se indicarán en cada clase.
+ 
+La clase se desarrollará utilizando [GitHub.com](https://github.com/), y los estudiantes deberán subir su material y desarrollos a ese portal. Para lo cual deber'an abrir una cuenta en ese sitio ([instruciones en GitHub](https://help.github.com/articles/signing-up-for-a-new-github-account/))
+
 ##Evaluación
 
+* Trabajos en clase 40%
+* Participación en discusiones 30%
+* Proyecto final 30%
+
+###Rúbricas 
+por definir
 
 ##Bibliografía
 
@@ -84,7 +108,7 @@ The Disruption Machine - The New Yorker." 2014. 17 Jun. 2016 [link](http://www.n
 OISPG Open Innovation 2.0 A New Paradigm - White Paper." 2015. 17 Jun. 2016 [link](http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=2182)  [Artículo relacionado](http://www.nature.com/news/twelve-principles-for-open-innovation-2-0-1.19911#/b1)
 
 ##Cronograma
-
+por definir
 
 
 ##Observaciones Generales
