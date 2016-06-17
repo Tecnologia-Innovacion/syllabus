@@ -40,19 +40,20 @@ Mejorar la capacidad de desarrollo de soluciones, productos o servicios innovado
   1. Democratización de tecnología
   2. Universalidad de conocimiento
 3. Movimiento Maker y la empresa
-4. Involucrando al "Crowd" en el desarrollo de empresa
+4. Pensamiento del diseño
+5. Involucrando al "Crowd" en el desarrollo de empresa
   1. Crowsourcing
   2. Crowdfunding
-5. Redes Sociales y el nuevo mundo interconectado
-6. Innovación Abierta
+6. Redes Sociales y el nuevo mundo interconectado
+7. Innovación Abierta
   1. Open Source
   2. Creative Commons
   3. Patentes
-7. Fabricación digital (visita a Inventoría)
+8. Fabricación digital (visita a Inventoría)
   1. Impresión 3D
   2. Tecnologías de controladores
   3. Prototipado de ideas
-8. Empresa "Inteligente"
+9. Empresa "Inteligente"
   1. Internet de las Cosas
   2. Máquinas inteligentes
   3. Control automático
