@@ -128,6 +128,8 @@ Creativity. Cambridge: Cambridge University Press,313–35.[PDF](http://www.sage
 
 [Design & Thinking: The movie](https://www.youtube.com/watch?v=Z_YwyMssN0Y)
 
+Print the Legend (Netflix)
+
 ##Cronograma
 por definir
 
