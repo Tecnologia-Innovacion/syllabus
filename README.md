@@ -20,10 +20,15 @@ Los temas principales a discutir:
 ##Objetivos
 
 ###General
-Mejorar la capacidad de desarrollo de soluciones, productos o servicios innovadores, a través de tecnologías contemporáneas
+Mejorar la capacidad de desarrollo de soluciones, productos o servicios innovadores, a través del uso y desarrollo de tecnología
 
 ###Específicos
 
+1. Entender loc aspectos teóricos y prácticos de innovación, creatividad y tecnología
+2. Comprender la realidad tecnológica del mundo actual y las implicaciones en nuestras empresas
+3. Determinar estratégias de innovación en las empresa contemporánea
+4. Comprender el uso de diseños abiertos y cerrados en la empresa contemporánea
+5. Concer las herraminetas de fabricación y prototipado de ideas
 
 ##Contenidos
 
@@ -39,14 +44,15 @@ Mejorar la capacidad de desarrollo de soluciones, productos o servicios innovado
   1. Crowsourcing
   2. Crowdfunding
 5. Redes Sociales y el nuevo mundo interconectado
-6 Diseños abiertos
+6. Diseños abiertos y propiedad intelectual
   1. Open Source
   2. Creative Commons
-6. Fabricación digital (visita a Inventoría)
+  3. Patentes
+7. Fabricación digital (visita a Inventoría)
   1. Impresión 3D
   2. Tecnologías de controladores
   3. Prototipado de ideas
-7. Empresa "Inteligente"
+8. Empresa "Inteligente"
   1. Internet de las Cosas
   2. Máquinas inteligentes
   3. Control automático
