@@ -1,22 +1,39 @@
 # Tecnología e Innovación
 
 Prof. Tomás de Camino Beck, Ph.D.
+
 Código del curso: MCI 4207
+
 Carrera: Maestría Profesional en Comercio y Mercados Internacionales
+
 Sede: San José
+
 Naturaleza del curso:  Teórico-Práctico
+
 Nivel: Maestría
+
 Ubicación: IV Cuatrimestre
+
 Modalidad: Presencial
+
 Duración: Un cuatrimestre
+
 No. Sesiones/semana 1
+
 Horas teóricas: 1
+
 Horas prácticas: 2
+
 Horas estudio independiente: 9
+
 Requisitos: Logística comercial (MCI 2202)
+
 Créditos: 4
+
 Horario: Viernes de 2:30 a 5:30
+
 Asistencia: Obligatoria
+
 Lugar donde se impartirá el curso: Aula 2 sede San José
 
 
