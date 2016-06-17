@@ -5,6 +5,17 @@ Prof. Tomás de Camino Beck, Ph.D.
 
 ##Descripción del curso
 
+Vivimos en un mundo donde el desarrollo tecnológico ha permitido universalizar la construcción de soluciones, productos o servicios innovadores. En este curso teorico práctico se discutirán aspectos de tecnología e innovación para lograr un entendimiento profundo de la naturaleza de la innovación y el desarrollo tecnológico.  El curso es un curso de discutir y hacer, incorporando la experiencia profesional.
+
+Los temas principales a discutir:
+
+* Innovación
+* Creatividad
+* Pensamiento del diseño y científico
+* Fabricación digital
+* Movimiento Maker
+* Crowdsourcing
+* Crowdfunding
 
 ##Objetivos
 
@@ -23,14 +34,12 @@ Prof. Tomás de Camino Beck, Ph.D.
 2. Realidad tecnlógica 2016
   1. Democratización de tecnología
   2. Universalidad de conocimiento
-3. Implicaciones Industriales de la tecnología
-  1. Como evoluciona el mercado
-  2. Como la tecnología modifica y evoluciona con el mercado
-3. Competitividad con tecnología
-4. Pensamiento del diseño y desarrollo Ágil
-5. Creatividad
-6. Creación de Innovación
-7. Fabricación digital
+3. Movimiento Maker
+4. Involucrando al "Crowd"
+  1. Crowsourcing
+  2. Crowdfunding
+5. Diseños abierto
+6. Fabricación digital
 
 
 ##Metodología de enseñanza
