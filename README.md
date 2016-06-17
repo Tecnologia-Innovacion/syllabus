@@ -18,7 +18,7 @@ Prof. Tomás de Camino Beck, Ph.D.
 
 1. Introducción
   1. Contexto tecnológico actual
-  2. Tecnologías de cambio
+  2. Innovación
   3. Pensamiento del diseño/científico
 2. EL individuo
   1. Creatividad
