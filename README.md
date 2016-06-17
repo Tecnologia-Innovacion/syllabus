@@ -75,6 +75,14 @@ Bustamante, Juan Pastor. Creatividad e innovación: Factores clave para la gesti
 
 Kelley, Tom, and Jonathan Littman. "Las diez caras de la innovación." editorial Currency (2005): 273.
 
+Godin, Benoît. "Innovation: the History of a Category." Project on the Intellectual History of Innovation Working Paper 1 (2008).[PDF](http://www.csiic.ca/PDF/IntellectualNo1.pdf)
+
+Godin, Benoît. "Innovation and Creativity: A Slogan, Nothing but a Slogan." Routledge Handbook of the Economics of Knowledge: XX-XX (2015).[PDF](http://www.csiic.ca/PDF/CreativityEnglish.pdf)
+
+The Disruption Machine - The New Yorker." 2014. 17 Jun. 2016 [link](http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine)
+
+OISPG Open Innovation 2.0 A New Paradigm - White Paper." 2015. 17 Jun. 2016 [link](file:///home/polimata/Descargas/OISPGOpenInnovation20ANewParadigm-WhitePaper.pdf)
+
 ##Cronograma
 
 
