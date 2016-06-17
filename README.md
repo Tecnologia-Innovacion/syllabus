@@ -107,6 +107,22 @@ The Disruption Machine - The New Yorker." 2014. 17 Jun. 2016 [link](http://www.n
 
 OISPG Open Innovation 2.0 A New Paradigm - White Paper." 2015. 17 Jun. 2016 [link](http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=2182)  [Artículo relacionado](http://www.nature.com/news/twelve-principles-for-open-innovation-2-0-1.19911#/b1)
 
+Von Hippel, Eric.Democratizing Innovation - MIT." 2006. 17 Jun. 2016 [PDF](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=712763)
+
+[Vianna, Maurício et al. "Design Thinking." Business Inovation (2011).
+](http://na-magazynie.pl/wp-content/uploads/2015/03/Design-Thinking-The-Book.pdf)
+
+##Videos
+
+[Tim Brown: Tales of creativity and play](https://www.youtube.com/watch?v=RjwUn-aA0VY)
+
+[David Kelley: How to Build Your Creative Confidence](https://www.youtube.com/watch?v=16p9YRF0l-g)
+
+[The Power of Networks](https://www.youtube.com/watch?v=nJmGrNdJ5Gw&list=PL39BF9545D740ECFF&index=5)
+
+[The Divided Brain](https://www.youtube.com/watch?v=dFs9WO2B8uI&index=6&list=PL39BF9545D740ECFF)
+
+
 ##Cronograma
 por definir
 
