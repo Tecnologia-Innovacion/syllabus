@@ -130,6 +130,8 @@ Creativity. Cambridge: Cambridge University Press,313–35.[PDF](http://www.sage
 
 Print the Legend (Netflix)
 
+Clayton Christensen on disruptive innovation - [Clarendon Lectures 10th June 2013](https://www.youtube.com/watch?v=rpkoCZ4vBSI)
+
 ##Cronograma
 por definir
 
