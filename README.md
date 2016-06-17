@@ -126,6 +126,8 @@ Creativity. Cambridge: Cambridge University Press,313–35.[PDF](http://www.sage
 
 Benkler, Yochai. The wealth of networks: How social production transforms markets and freedom. Yale University Press, 2006 [PDF](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf)
 
+Remix: Making Art and Commerce Thrive in the Hybrid ... - Lessig." 2008. 17 Jun. 2016 
+
 ##Videos
 
 [Tim Brown: Tales of creativity and play](https://www.youtube.com/watch?v=RjwUn-aA0VY)
