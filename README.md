@@ -162,6 +162,8 @@ Benkler, Yochai. The wealth of networks: How social production transforms market
 
 Remix: Making Art and Commerce Thrive in the Hybrid ... - Lessig." 2008. 17 Jun. 2016 [PDF](https://drive.google.com/file/d/0B7yrv8bM1_OAYTgtUkd4SE54eEk/view?usp=sharing)
 
+[Something Extraordinary Is Happening in the World, And Most People Haven’t Noticed](http://www.huffingtonpost.com/gustavo-tanaka/something-extraordinary-happening-in-the-world_b_8820154.html)
+
 ##Videos
 
 [Tim Brown: Tales of creativity and play](https://www.youtube.com/watch?v=RjwUn-aA0VY)
