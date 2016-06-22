@@ -109,7 +109,7 @@ La solución de ejercicios prácticos por parte de los estudiantes permitirá qu
 
 Se desarrollará un proyecto en grupos para diseñar una estrategia de innovación tecnológica en una empresa (roadmap to innovation), utilizando los conceptos discutidos en la clase. Este proyecto se desarrolla durante todo el cuatrimestre y el docente apoyará con mentoría y guías ara el desarrollo del proyecto.
 
-Se asignarán lecturas obligatorias que servirán de base para el inicio de cada clase.
+Se asignarán lecturas obligatorias que servirán de base para el inicio de cada clase. Para cada lectura los estudiantes deben crear un mapa mental, utilizando MindMup, una herramienta libre de desarrollo de mapas mentales.
 
 ##Estrategias de aprendizaje
 
