@@ -132,7 +132,8 @@ La clase se desarrollará utilizando [GitHub.com](https://github.com/), y los es
 * Proyecto final 30%
 
 ###Rúbricas 
-por definir
+
+El curso se basa en auto-evaluación y al final una discusión de la nota con el profesor.  Para cada trabajo se deberá llenar el [cuestionario de auto-evaluación](http://goo.gl/forms/dYCnAP3iJ04vOR0Q2)
 
 ##Bibliografía
 
